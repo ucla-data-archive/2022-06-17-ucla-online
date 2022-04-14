@@ -24,7 +24,7 @@ carpentry: "swc"
 # Data Carpentry and Software Carpentry workshops.
 # The value of the variable will be ignored for Library Carpentry
 # workshops.
-# Possible values are:
+# Possible values are: link to find possible vaules: https://carpentries.org/workshops-curricula/#swc-all
 # dc-astronomy: for Data Carpentry Astronomy
 # dc-ecology: for Data Carpentry Ecology
 # dc-genomics: for Data Carpentry Genomics
@@ -32,7 +32,7 @@ carpentry: "swc"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "FIXME"
+curriculum: "swc-all"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
