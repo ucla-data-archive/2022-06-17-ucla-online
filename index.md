@@ -18,6 +18,7 @@ helper: ["Deidre Whitmore", "Geno Sanchez", "Mark Matney","Madeline Cowen"]     
 email: ["zyao@g.ucla.edu","timdennis@g.ucla.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 Eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+[## Registration](https://calendar.library.ucla.edu/calendar/data-science-center/?cid=7056&t=d&d=0000-00-00&cal=7056&inc=0) 
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
